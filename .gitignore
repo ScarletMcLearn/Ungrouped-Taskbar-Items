@@ -1,0 +1,9 @@
+# Local build toolchain, downloaded symbols, and diagnostics.
+/work/
+/release/*
+!/release/.gitkeep
+/.agent/
+
+# PowerShell/editor state.
+*.user
+*.tmp
